@@ -30,7 +30,7 @@ twitter_username: qwaezrx
 github_username:  qwaezrx
 
 # Build settings
-theme: minima
+theme: just-the-docs
 plugins:
   - jekyll-feed
 
