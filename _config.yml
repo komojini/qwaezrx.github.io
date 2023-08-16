@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Jw's dictionary
+title: 📖 Jw's dictionary
 email: hongjw0309@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
@@ -82,6 +82,8 @@ search:
   # Supports true or false (default)
   button: false
 
+# Set a path/url to a favicon that will be displayed by the browser
+favicon_ico: "/assets/images/round_favicon.ico"
 
 # For copy button on code
 enable_copy_code_button: true
